@@ -1,4 +1,0 @@
-pandas
-pickel
-sklearn
-scikit-learn
